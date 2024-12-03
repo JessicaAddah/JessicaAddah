@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web development with javascript and digital skills
 - 💞️ I’m looking to collaborate on projects in the cardano ecosystem which aims to expand the growth of the cardano ecosystem.
 - 📫 you can reach me @addahjessica2@gmail.com
-- 😄 Pronouns:she
+- 😄 Pronouns:she/her
 - ⚡ Fun fact:i love to teach
 
 <!---
